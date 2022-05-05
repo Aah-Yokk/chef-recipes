@@ -6,4 +6,4 @@ Setting up my project's GitHub Repository
   1.Cloning
   2.GIt remote -v
   3.Status,log
-  4.Add,commit,comit
+  4.Add,commit,restore --staged <file>
